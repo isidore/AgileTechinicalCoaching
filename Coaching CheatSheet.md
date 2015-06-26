@@ -62,7 +62,7 @@
 
 14) Small steps
  - small steps for code
- - don't skip the steps in your though process 
+ - don't skip the steps in your thought process 
 
 
 
