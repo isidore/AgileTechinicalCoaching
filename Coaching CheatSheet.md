@@ -14,7 +14,7 @@
   - quiet = bad
   - head orientation (should be looking at the tv/projector)
   - laptops , smart-phones = bad
-  - movement = encreased focus (make people stand up and rotate around the table)
+  - movement = increased focus (make people stand up and rotate around the table)
   - across the table = louder
   - is the navigator navigating (good) is the driver thinking (bad)?
 
